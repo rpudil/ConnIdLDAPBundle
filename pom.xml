@@ -99,13 +99,13 @@
     <dependency>
       <groupId>net.tirasa.connid</groupId>
       <artifactId>connector-framework</artifactId>
-      <version>${connid.version}</version>
+      <version>1.4.2.0-SNAPSHOT</version>
     </dependency>
 
     <dependency>
       <groupId>net.tirasa.connid</groupId>
       <artifactId>connector-framework-internal</artifactId>
-      <version>${connid.version}</version>
+      <version>1.4.2.0-SNAPSHOT</version>
     </dependency>
         
     <dependency>
